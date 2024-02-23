@@ -1,0 +1,15 @@
+p, li {
+  font-size: 18px;
+}
+
+.intro {
+  text-align: end;
+}
+
+h1 {
+  color: red;
+}
+
+#about-me {
+  color: blue;
+}
